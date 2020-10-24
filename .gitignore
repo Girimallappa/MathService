@@ -1,0 +1,10 @@
+.vs
+MathService/bin
+MathService/MathService.csproj.user
+MathService/obj
+MathServiceTests/bin
+MathServiceTests/obj
+packages
+TriangleTestClient/bin
+TriangleTestClient/obj
+TriangleTestClient/TriangleTestClient.csproj.user
